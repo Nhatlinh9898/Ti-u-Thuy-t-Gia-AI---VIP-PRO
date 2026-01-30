@@ -1,0 +1,7 @@
+{
+  "name": "Tiểu Thuyết Gia AI - VIP PRO",
+  "description": "Hệ thống kiến trúc tiểu thuyết thông minh, hỗ trợ sáng tác, phát triển cốt truyện và quản lý cấu trúc phân cấp chuyên nghiệp.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
